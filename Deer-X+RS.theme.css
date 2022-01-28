@@ -1,0 +1,98 @@
+/**
+* @name Deer-X+RS
+* @version 1.0
+* @description Edited ClearVision + RadialStatus
+* @author Xemulated
+*/
+@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--main-color: #1964bb;
+--hover-color: #3e76b6;
+--success-color: #1e21b3;
+--danger-color: #ff0000;
+--url-color: #2780e6;
+--online-color: #18ec8d;
+--idle-color: #e9ec31;
+--dnd-color: #8b1212;
+--streamig-color: #280564;
+--offline-color: #616161;
+--main-font: 'Whitney';
+--code-font: 'Consolas';
+--text-normal: rgb(255, 255, 255);
+--text-muted: rgb(103, 105, 107);
+--channels-width: 204px;
+--members-width: 233px;
+--background-shading: 17%;
+--background-overlay: #00000099;
+--background-image: url('https://i.imgur.com/4A9hL8g.jpg');
+--background-size: cover;
+--background-position: center;
+--background-repeat: no-repeat;
+--background-attachment: fixed;
+--background-brightness: 100%;
+--background-constrast: 100%;
+--background-saturation: 100%;
+--background-invert: 0%;
+--background-grayscale: 0%;
+--background-sepia: 0%;
+--background-blur: 0px;
+--home-icon: url('https://clearvision.gitlab.io/icons/discord.svg');
+--home-position: center;
+--home-size: 40px;
+--background-overlay: #00000099;
+--backdrop-image: url('https://i.imgur.com/4A9hL8g.jpg');
+--backdrop-image: center;
+--backdrop-size: cover;
+--backdrop-repeat: repeat;
+--backdrop-attachment: fixed;
+--backdrop-brightness: 100%;
+--backdrop-constrast: 100%;
+--backdrop-saturation: 100%;
+--backdrop-invert: 0%;
+--backdrop-grayscale: 0%;
+--backdrop-sepia: 0%;
+--backdrop-blur: 0px;
+--user-popout-image: url('https://i.imgur.com/4A9hL8g.jpg');
+--user-popout-image: center;
+--user-popout-size: cover;
+--user-popout-repeat: repeat;
+--user-popout-attachment: fixed;
+--user-popout-brightness: 100%;
+--user-popout-constrast: 100%;
+--user-popout-saturation: 100%;
+--user-popout-invert: 0%;
+--user-popout-grayscale: 0%;
+--user-popout-sepia: 0%;
+--user-popout-blur: 0px;
+--user-popout-overlay: #000000a6;
+--user-modal-image: url('https://i.imgur.com/4A9hL8g.jpg');
+--user-modal-image: center;
+--user-modal-size: cover;
+--user-modal-repeat: repeat;
+--user-modal-attachment: fixed;
+--user-modal-brightness: 100%;
+--user-modal-constrast: 100%;
+--user-modal-saturation: 100%;
+--user-modal-invert: 0%;
+--user-modal-grayscale: 0%;
+--user-modal-sepia: 0%;
+--user-modal-blur: 0px;
+--bd-blue: #2780e6;
+--bd-blue-hover: #1e63b3;
+--bd-blue-active: #1e63b3;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #18ec8d;
+--rs-idle-color: #e9ec31;
+--rs-dnd-color: #8b1212;
+--rs-offline-color: #616161;
+--rs-streaming-color: #280564;
+--rs-invisible-color: #3d3e3f;
+--rs-phone-visible: block;
+}
